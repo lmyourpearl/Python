@@ -1,0 +1,14 @@
+[user]
+	email = jjtw8711@gmail.com
+	name = JJ LEE
+[core]
+	quotepath = false
+	autocrlf = true
+[i18n]
+	commitencoding = utf-8
+	logoutputencoding = utf-8
+[init]
+	defultBranch = main
+	defaultBranch = main
+[credential]
+	helper = manager
